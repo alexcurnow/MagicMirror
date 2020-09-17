@@ -120,6 +120,7 @@ sup {
 .region.bottom .module {
   margin-top: 30px;
   margin-bottom: 0;
+  padding-bottom: 20px;
 }
 
 .no-wrap {
