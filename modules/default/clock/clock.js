@@ -26,7 +26,7 @@ Module.register("clock", {
 		analogPlacement: "bottom", // options: 'top', 'bottom', 'left', 'right'
 		analogShowDate: "top", // options: false, 'top', or 'bottom'
 		secondsColor: "#888888",
-		timezone: null,
+		timezone: "America/New_York",
 
 		showSunTimes: false,
 		showMoonTimes: false,
